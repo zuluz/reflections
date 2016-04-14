@@ -1,0 +1,24 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A: I'm saying that I would like to make version control on that directory. Otherwise that would be just a regular directory on my filesystem.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+A: It's between WD and the repo. It's not so messy as the first could be, but it's also no so sacred as the last should be.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+A: 
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+manually?
