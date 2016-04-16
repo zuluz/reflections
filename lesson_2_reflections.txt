@@ -10,15 +10,23 @@ A: It's between WD and the repo. It's not so messy as the first could be, but it
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-A: 
+A: Since it allows me to check wich differences are between the repo and the staging area right before commiting.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+A: Anytime I need to keep different workflows on my code. For examples if I want to start a new version and keep the current one available for small new changes like fixing bugs. I could also use branches names do help me construct a human readable timeline for my code.
+
 How do the diagrams help you visualize the branch structure?
+
+A: They help me to keep track of wich commits are visible from some specific context.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+A: Two different lines of work became only one. So we represent it that	 way.
+
+What are the pros and cons of Git s automatic merging vs. always doing merges
 manually?
+
+A: It's fast and takes care of the daily simples task regarding to merge. At the same time, some stuff could go very bad if Git was able to auto-merge all files. Sometimes the conflict is a result of bad practices in the team and those would keep out of the radar for longer.
