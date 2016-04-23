@@ -20,4 +20,4 @@ How would you collaborate without using Git or GitHub?  What would be easier, an
 
 When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Myself I would create branches for everything just as way to organize and keep track of things. Of course, it could be tempting to work directly on master in disfavor of traceabllity.
